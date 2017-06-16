@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="about_me">Hello ! Ohk! This section of my blog describes me! And here the description goes !
+I am a Programmer/coder/!geek! enthusiast who love to code and solve problems via coding.I love to code and learn new technologies and build something that automates day to day work.
+Background: I belong to Lucknow,Uttar Pradesh India-City of Nawabs and Kebabs.I am 18 yrs old currently pursuing Bachelors of Technology (IT) in a UPTU college in NCR.
+I am a mixture of Introvert|Anthropophobic|Bibliophile|Geek|Reader|Learner. I love my mind,it has a progression of number of thoughts .I am reading self helping books to make my mind and thoughts positive,controlled and streamlined.
+Social life : I hate socializing with peoples,I can’t handle the idiots around me .I live a very awkward social life!!
+Religious Life :Follows Hindu dharma and a follower/Bhakta/Devotee of Krishna(Bankey Bihari)!. I love to meet him and stare at him for long hours in Bankey Bihari Temple,Vrindavana!.I find eternal bliss and happiness here(Vrindavana).I will love to stay there for my lifetime if I would get a chance
+Hence,I am working to make myself better everyday.
+Thus,following dreams and passion! Peace.Period.</string>
+    <string name="skill_set">
+        Currently Learning Android..
+        Knows About HTML,CSS,Java,Competetive,Less,Sass,Hibernate,jQuery..
+        Will be adding more ;-)
+    </string>
+    <string name="ping_me">
+        Contact me @facebook.com/suneet.srivastava.353
+                    +91-7838849957
+                    srivastava29@outlook.com
+    </string>
+</resources>
