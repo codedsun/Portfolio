@@ -30,17 +30,20 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_marginStart="5dp"
+            android:id="@+id/twitter"
             android:background="@drawable/twi"/>
         <ImageButton
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_marginStart="5dp"
-            android:background="@drawable/me"/>
+            android:background="@drawable/me"
+            android:id="@+id/medium"/>
         <ImageButton
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_marginStart="5dp"
-            android:background="@drawable/quora"/>
+            android:background="@drawable/quora"
+            android:id="@+id/quora"/>
 
       </LinearLayout>
 
